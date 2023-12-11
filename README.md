@@ -1,8 +1,6 @@
 DrillBuddy is a new and easy way to record and save your drill with ease
 
-Record | Save.Access.
-:---:|:---:
-![1](https://github.com/RomanTheBaby/DrillBuddyPage/assets/16260191/105a7efc-465d-4319-80b7-f50b316f9b8d) | ![2](https://github.com/RomanTheBaby/DrillBuddyPage/assets/16260191/4c1f922a-9a68-465b-9bae-a93ce08e88cd)
+![Stuff](https://github.com/RomanTheBaby/DrillBuddyPage/assets/16260191/3476d0df-9465-435f-b966-b909d7f32e35)
 
 ## Support
 
