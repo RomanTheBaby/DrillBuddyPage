@@ -4,5 +4,5 @@ DrillBuddy is a new and easy way to record and save your drill with ease
 
 ## Support
 
-[Contant Us](mailto:appsofrom@gmail.com)
+[Contant Us](mailto:appsofrom@gmail.com)<br />
 [Privacy Policy](https://firebase.google.com/support/privacy)
