@@ -7,4 +7,4 @@ Record | Save.Access.
 ## Support
 
 
-[Contant Us](appsofrom@gmail.com)
+[Contant Us](mailto:appsofrom@gmail.com)
