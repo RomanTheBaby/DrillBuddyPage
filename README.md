@@ -1,5 +1,3 @@
-# DrillBuddy
-
 DrillBuddy is a new and easy way to record and save your drill with ease
 
 Record | Save.Access.
