@@ -6,5 +6,5 @@ Record | Save.Access.
 
 ## Support
 
-
 [Contant Us](mailto:appsofrom@gmail.com)
+[Privacy Policy](https://firebase.google.com/support/privacy)
